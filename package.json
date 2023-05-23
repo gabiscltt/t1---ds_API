@@ -1,0 +1,21 @@
+{
+    "dependencies": {
+      "knex": "^2.4.2",
+      "mysql": "^2.18.1",
+      "restify": "^11.1.0",
+      "restify-errors": "^8.0.2"
+    },
+    "name": "T1-ds_API",
+    "version": "1.0.0",
+    "description": "API",
+    "main": "index.js",
+    "devDependencies": {},
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+      "API"
+    ],
+    "author": "gabiscltt",
+    "license": "ISC"
+  }
